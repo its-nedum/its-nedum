@@ -7,8 +7,7 @@
 
 ---
 ### About Me
-✨ I'm a Full Stack Web Developer based in Abuja. I'm passionate about helping organization leverage the internet to grow their business and increase revenue.
-
+✨ I'm a Full Stack Web Developer based in Abuja. I'm passionate about technology, learning new stuff and solving problems.
 - 🔭 I’m currently working on some freelance projects.
 - 💬 Ask me about: JavaScript, PHP, Ruby, React, Node.js, Ruby on Rails
 - 📫 How to reach me: emesuechinedu@gmail.com or [@its_nedum](https://twitter.com/its_nedum)
