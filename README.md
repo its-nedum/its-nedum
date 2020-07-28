@@ -12,8 +12,6 @@
 - 💬 Ask me about: JavaScript, PHP, Ruby, React, Node.js, Ruby on Rails
 - 📫 How to reach me: emesuechinedu@gmail.com or [@its_nedum](https://twitter.com/its_nedum)
 
-<p>If you have any fun project that you want me to help build or you feel that I will be a great addition to your team. Feel free to reach out to me. I'm always looking to work on fun projects.</p>
-
 ---
 ### Projects
 - <b>Fitness Tracker</b> <br>
@@ -29,6 +27,8 @@
 - <b>Kick Out Diabetes</b> <br>
   Technology used: PHP. [website](https://www.kickoutdiabetes.org.ng) <br>
  [more projects](https://chineduemesue.netlify.app)
+ 
+ <p>If you have any fun project that you want me to help build or you feel that I will be a great addition to your team. Feel free to reach out to me. I'm always looking to work on fun projects.</p>
 <!--
 **its-nedum/its-nedum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
