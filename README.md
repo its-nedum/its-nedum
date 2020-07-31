@@ -15,16 +15,22 @@
 ---
 ### Projects
 - <b>Fitness Tracker</b> <br>
+  <span>This web app helps users keep track of their fitness habit.</span> <br>
   Technology used: Ruby on Rails. [website](https://move-nd-groove.herokuapp.com)
 - <b>Christian Connect</b> <br>
+  <span>A social network website where Christian can meet, connect and download media files.</span> <br>
   Technology used: React, Nodejs and Postgres. [website](https://christian-connect.herokuapp.com)
 - <b>Film Festival</b> <br>
-  Technology used: HTML, CSS and Bootstrap. [website](https://its-nedum.github.io/film-festival/)
+  <span>A film festival website.</span> <br>
+  Technology used: HTML, CSS, Bootstrap and JavaScript. [website](https://its-nedum.github.io/film-festival/)
 - <b>Esmartcards</b> <br>
+  <span>An online access card store for WAEC, NECO, NABTEB result checker pins and JAMB correction of data.</span> <br>
   Technology used: PHP. [website](https://www.esmartcards.com.ng)
 - <b>Teamwork</b> <br>
+  <span>An internal social network for employees of an organization.</span> <br>
   Technology used: React, Nodejs and Postgres. [website](https://its-teamwork-app.herokuapp.com)
 - <b>Kick Out Diabetes</b> <br>
+  <span>A website for demystifying information about Type II diabetes.</span> <br>
   Technology used: PHP. [website](https://www.kickoutdiabetes.org.ng) <br>
  [more projects](https://chineduemesue.netlify.app)
  
