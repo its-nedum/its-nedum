@@ -14,6 +14,9 @@
 
 ---
 ### Projects
+- <b>Boulder Bike Tour</b> <br>
+  <span>Website for a prestigious bike racing competition</span> <br>
+  Technology used: React and Ruby on Rails. [website](https://boulderbike-tour.herokuapp.com)
 - <b>Fitness Tracker</b> <br>
   <span>This web app helps users keep track of their fitness habit.</span> <br>
   Technology used: Ruby on Rails. [website](https://move-nd-groove.herokuapp.com)
