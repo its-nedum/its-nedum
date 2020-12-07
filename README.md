@@ -14,6 +14,9 @@
 
 ---
 ### Projects
+- <b>Office Manager</b> <br>
+  <span>An efficient and secure way to receive and move files/proposal/memo from one office to another within an organization.</span> <br>
+  Technology used: React, Nodejs and Postgres. [website](https://e-office-manager.herokuapp.com)
 - <b>Boulder Bike Tour</b> <br>
   <span>Website for a prestigious bike racing competition</span> <br>
   Technology used: React and Ruby on Rails. [website](https://boulderbike-tour.herokuapp.com)
@@ -29,9 +32,6 @@
 - <b>Esmartcards</b> <br>
   <span>An online access card store for WAEC, NECO, NABTEB result checker pins and JAMB correction of data.</span> <br>
   Technology used: PHP. [website](https://www.esmartcards.com.ng)
-- <b>Teamwork</b> <br>
-  <span>An internal social network for employees of an organization.</span> <br>
-  Technology used: React, Nodejs and Postgres. [website](https://its-teamwork-app.herokuapp.com)
 - <b>Kick Out Diabetes</b> <br>
   <span>A website for demystifying information about Type II diabetes.</span> <br>
   Technology used: PHP. [website](https://www.kickoutdiabetes.org.ng) <br>
