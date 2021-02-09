@@ -23,9 +23,6 @@
 - <b>Fitness Tracker</b> <br>
   <span>This web app helps users keep track of their fitness habit.</span> <br>
   Technology used: Ruby on Rails. [website](https://move-nd-groove.herokuapp.com)
-- <b>Christian Connect</b> <br>
-  <span>A social network website where Christian can meet, connect and download media files.</span> <br>
-  Technology used: React, Nodejs and Postgres. [website](https://christian-connect.herokuapp.com)
 - <b>Esmartcards</b> <br>
   <span>An online access card store for WAEC, NECO, NABTEB result checker pins and JAMB correction of data.</span> <br>
   Technology used: PHP. [website](https://www.esmartcards.com.ng)
