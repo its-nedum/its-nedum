@@ -25,7 +25,7 @@
   Technology used: Ruby on Rails. [website](https://move-nd-groove.herokuapp.com)
 - <b>Esmartcards</b> <br>
   <span>An online access card store for WAEC, NECO, NABTEB result checker pins and JAMB correction of data.</span> <br>
-  Technology used: PHP. [website](https://www.esmartcards.com.ng)
+  Technology used: PHP. [website](https://www.esmartcards.com.ng) <br>
  [more projects](https://chineduemesue.netlify.app)
  
  <p>If you have any fun project that you want me to help build or you feel that I will be a great addition to your team. Feel free to reach out to me. I'm always looking to work on fun projects.</p>
