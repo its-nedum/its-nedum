@@ -2,7 +2,8 @@
 <p align="center">
   <a href="https://chineduemesue.netlify.app">Website</a> •
   <a href="https://twitter.com/its_nedum">Twitter</a> •
-  <a href="https://www.linkedin.com/in/chinedu-emesue">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/chinedu-emesue">LinkedIn</a> •
+  <a href="https://itsnedum.hashnode.dev/">Blog</a>
 </p>
 
 ---
