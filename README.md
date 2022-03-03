@@ -14,7 +14,7 @@
 - 📫 How to reach me: emesuechinedu@gmail.com or [@its_nedum](https://twitter.com/its_nedum)
 
 ---
-### Projects
+<!-- ### Projects
 - <b>Neighborhood Aid</b> <br>
   <span>A platform for exchanging acts of kindness.</span> <br>
   Technology used: React and Ruby on Rails. [website](https://neighborhood-aid.netlify.app)
@@ -27,7 +27,7 @@
 - <b>Esmartcards</b> <br>
   <span>An online access card store for WAEC, NECO, NABTEB result checker pins and JAMB correction of data.</span> <br>
   Technology used: PHP. [website](https://www.esmartcards.com.ng) <br>
- [more projects](https://chineduemesue.netlify.app)
+ [more projects](https://chineduemesue.netlify.app) -->
  
  <p>If you have any fun project that you want me to help build or you feel that I will be a great addition to your team. Feel free to reach out to me. I'm always looking to work on fun projects.</p>
 <!--
