@@ -8,7 +8,7 @@
 
 ---
 ### About Me
-✨ I'm a Full Stack Software Developer based in Abuja. I'm passionate about technology, learning new stuff, and solving problems.
+✨ I'm a Full Stack Software Developer with a degree in Computer Science. I'm passionate about technology, learning new stuff, and solving problems.
 - 🔭 I’m currently making the world a better place one code at a time.
 - 💬 Ask me about: Software design, development, testing, and deployment.
 - 📫 How to reach me: emesuechinedu@gmail.com or [@its_nedum](https://twitter.com/its_nedum)
