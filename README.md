@@ -8,9 +8,9 @@
 
 ---
 ### About Me
-✨ I'm a Full Stack Software Developer based in Abuja. I'm passionate about technology, learning new stuff and solving problems.
-- 🔭 I’m currently working on some freelance projects.
-- 💬 Ask me about: Software design, development, testing and deployment.
+✨ I'm a Full Stack Software Developer based in Abuja. I'm passionate about technology, learning new stuff, and solving problems.
+- 🔭 I’m currently making the world a better place one code at a time.
+- 💬 Ask me about: Software design, development, testing, and deployment.
 - 📫 How to reach me: emesuechinedu@gmail.com or [@its_nedum](https://twitter.com/its_nedum)
 
 ---
@@ -29,7 +29,7 @@
   Technology used: PHP. [website](https://www.esmartcards.com.ng) <br>
  [more projects](https://chineduemesue.netlify.app) -->
  
- <p>If you have any fun project that you want me to help build or you feel that I will be a great addition to your team. Feel free to reach out to me. I'm always looking to work on fun projects.</p>
+ <p>If you have any fun project you want me to help build or feel that I will be a great addition to your team. Feel free to reach out to me. I'm always looking to work on fun projects.</p>
 <!--
 **its-nedum/its-nedum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
